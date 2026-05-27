@@ -1,0 +1,48 @@
+# Reusable .gitignore — copy into each new project repo as `.gitignore`.
+# Covers Next.js/Node web projects + macOS + Xcode/iOS + secrets.
+
+# --- Secrets (NEVER commit these) ---
+.env
+.env.*
+*.pem
+*.key
+*.p8
+*.mobileprovision
+
+# --- Node / Next.js ---
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.turbo/
+.vercel/
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# --- Editors ---
+.vscode/
+.idea/
+*.swp
+
+# --- Xcode / iOS ---
+DerivedData/
+build/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+xcuserdata/
+.build/
+Pods/
+*.ipa
+*.dSYM.zip
