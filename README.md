@@ -7,7 +7,7 @@ I run a lot of side projects and build the tools I need to ship them. Most are f
 ## What I'm shipping
 
 - **[chase-hub](https://github.com/iamchasewhittaker/chase-hub)** — Personal hub that walks through the merchant payments flow. Live.
-- **[yardos](https://github.com/iamchasewhittaker/yardos)** (Tilth) — Full-stack lawn-care planner. Next.js + Supabase. Live.
+- **[yardos](https://github.com/iamchasewhittaker/yardos)** — Full-stack lawn-care planner. Next.js + Supabase. Live.
 - **[shipyard-os](https://github.com/iamchasewhittaker/shipyard-os)** — Dashboard for tracking 50+ side projects through the build loop. Live.
 - **[f1-connections](https://github.com/iamchasewhittaker/f1-connections)** — Daily Formula 1 themed Connections puzzle. Live.
 - **[gmat-mastery-web](https://github.com/iamchasewhittaker/gmat-mastery-web)** — AI-generated GMAT practice with Socratic explanations. Live.
